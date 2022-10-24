@@ -17,7 +17,7 @@ function App() {
             <Header />
             <Routes>
 
-                <Route path={'/form'} element={<Form />}/>
+                <Route path={'form'} element={<Form />}/>
             </Routes>
         </div>
     );
